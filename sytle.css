@@ -1,0 +1,27 @@
+/*####################### Tag Selectors############## */
+h1{
+      color:#256D85;
+}
+h2{
+      color:#256D85;
+}
+h3{
+      color:#256D85;
+}
+       /* body{
+                  background-color:rgb(194, 221, 206);
+                  
+            } */
+            hr{  
+                  /* border-style:dotted none none; */
+                 border-style: dotted none none;
+      background:transparent;
+      border-width: 5px;
+                  width: 30%;  
+            }
+            img{
+                  border-radius: 50%;
+            }
+
+
+
